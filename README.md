@@ -1,6 +1,8 @@
 # creative_fabrica
 
-A new Flutter project.
+Release build can be downloaded from here: [Github Releases](https://github.com/mishmash-labs/creativefabrica/releases/tag/build)
+
+App can be compiled and ran as is.
 
 ## Getting Started
 
